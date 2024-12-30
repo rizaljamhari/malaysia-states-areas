@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Selangor",
+    "slug": "selangor"
+  },
+  {
+    "name": "Kuala Lumpur",
+    "slug": "kuala-lumpur"
+  },
+  {
+    "name": "Johor",
+    "slug": "johor"
+  },
+  {
+    "name": "Penang",
+    "slug": "penang"
+  },
+  {
+    "name": "Perak",
+    "slug": "perak"
+  },
+  {
+    "name": "Negeri Sembilan",
+    "slug": "negeri-sembilan"
+  },
+  {
+    "name": "Melaka",
+    "slug": "melaka"
+  },
+  {
+    "name": "Pahang",
+    "slug": "pahang"
+  },
+  {
+    "name": "Sabah",
+    "slug": "sabah"
+  },
+  {
+    "name": "Sarawak",
+    "slug": "sarawak"
+  },
+  {
+    "name": "Kedah",
+    "slug": "kedah"
+  },
+  {
+    "name": "Putrajaya",
+    "slug": "putrajaya"
+  },
+  {
+    "name": "Kelantan",
+    "slug": "kelantan"
+  },
+  {
+    "name": "Terengganu",
+    "slug": "terengganu"
+  },
+  {
+    "name": "Perlis",
+    "slug": "perlis"
+  },
+  {
+    "name": "Labuan",
+    "slug": "labuan"
+  }
+]

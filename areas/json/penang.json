@@ -1,0 +1,317 @@
+{
+  "name": "Penang",
+  "areas": [
+    {
+      "name": "Air Tawar",
+      "slug": "air-tawar"
+    },
+    {
+      "name": "Alma",
+      "slug": "alma"
+    },
+    {
+      "name": "Ayer Itam",
+      "slug": "ayer-itam"
+    },
+    {
+      "name": "Bagan Ajam",
+      "slug": "bagan-ajam"
+    },
+    {
+      "name": "Bagan Jermal",
+      "slug": "bagan-jermal"
+    },
+    {
+      "name": "Bagan Lallang",
+      "slug": "bagan-lallang"
+    },
+    {
+      "name": "Balik Pulau",
+      "slug": "balik-pulau"
+    },
+    {
+      "name": "Bandar Perda",
+      "slug": "bandar-perda"
+    },
+    {
+      "name": "Barat Daya",
+      "slug": "barat-daya"
+    },
+    {
+      "name": "Batu Feringhi",
+      "slug": "batu-feringhi"
+    },
+    {
+      "name": "Batu Kawan",
+      "slug": "batu-kawan"
+    },
+    {
+      "name": "Batu Maung",
+      "slug": "batu-maung"
+    },
+    {
+      "name": "Batu Uban",
+      "slug": "batu-uban"
+    },
+    {
+      "name": "Bayan Baru",
+      "slug": "bayan-baru"
+    },
+    {
+      "name": "Bayan Lepas",
+      "slug": "bayan-lepas"
+    },
+    {
+      "name": "Berapit",
+      "slug": "berapit"
+    },
+    {
+      "name": "Bertam",
+      "slug": "bertam"
+    },
+    {
+      "name": "Bukit Dumbar",
+      "slug": "bukit-dumbar"
+    },
+    {
+      "name": "Bukit Jambul",
+      "slug": "bukit-jambul"
+    },
+    {
+      "name": "Bukit Mertajam",
+      "slug": "bukit-mertajam"
+    },
+    {
+      "name": "Bukit Minyak",
+      "slug": "bukit-minyak"
+    },
+    {
+      "name": "Bukit Tambun",
+      "slug": "bukit-tambun"
+    },
+    {
+      "name": "Bukit Tengah",
+      "slug": "bukit-tengah"
+    },
+    {
+      "name": "Butterworth",
+      "slug": "butterworth"
+    },
+    {
+      "name": "Gelugor",
+      "slug": "gelugor"
+    },
+    {
+      "name": "Georgetown",
+      "slug": "georgetown"
+    },
+    {
+      "name": "Gertak Sangul",
+      "slug": "gertak-sangul"
+    },
+    {
+      "name": "Greenlane",
+      "slug": "greenlane"
+    },
+    {
+      "name": "Gurney",
+      "slug": "gurney"
+    },
+    {
+      "name": "Jawi",
+      "slug": "jawi"
+    },
+    {
+      "name": "Jelutong",
+      "slug": "jelutong"
+    },
+    {
+      "name": "Juru",
+      "slug": "juru"
+    },
+    {
+      "name": "Kepala Batas",
+      "slug": "kepala-batas"
+    },
+    {
+      "name": "Kubang Semang",
+      "slug": "kubang-semang"
+    },
+    {
+      "name": "Mak Mandin",
+      "slug": "mak-mandin"
+    },
+    {
+      "name": "Minden Heights",
+      "slug": "minden-heights"
+    },
+    {
+      "name": "Nibong Tebal",
+      "slug": "nibong-tebal"
+    },
+    {
+      "name": "Pauh Jaya",
+      "slug": "pauh-jaya"
+    },
+    {
+      "name": "Paya Terubong",
+      "slug": "paya-terubong"
+    },
+    {
+      "name": "Penaga",
+      "slug": "penaga"
+    },
+    {
+      "name": "Penang Hill",
+      "slug": "penang-hill"
+    },
+    {
+      "name": "Penanti",
+      "slug": "penanti"
+    },
+    {
+      "name": "Perai",
+      "slug": "perai"
+    },
+    {
+      "name": "Permatang Kuching",
+      "slug": "permatang-kuching"
+    },
+    {
+      "name": "Permatang Pauh",
+      "slug": "permatang-pauh"
+    },
+    {
+      "name": "Permatang Tinggi",
+      "slug": "permatang-tinggi"
+    },
+    {
+      "name": "Pulau Betong",
+      "slug": "pulau-betong"
+    },
+    {
+      "name": "Pulau Tikus",
+      "slug": "pulau-tikus"
+    },
+    {
+      "name": "Raja Uda",
+      "slug": "raja-uda"
+    },
+    {
+      "name": "Relau",
+      "slug": "relau"
+    },
+    {
+      "name": "Scotland",
+      "slug": "scotland"
+    },
+    {
+      "name": "Seberang Jaya",
+      "slug": "seberang-jaya"
+    },
+    {
+      "name": "Seberang Perai",
+      "slug": "seberang-perai"
+    },
+    {
+      "name": "Selatan",
+      "slug": "selatan"
+    },
+    {
+      "name": "Serdang",
+      "slug": "serdang"
+    },
+    {
+      "name": "Simpang Ampat",
+      "slug": "simpang-ampat"
+    },
+    {
+      "name": "Sungai Ara",
+      "slug": "sungai-ara"
+    },
+    {
+      "name": "Sungai Bakap",
+      "slug": "sungai-bakap"
+    },
+    {
+      "name": "Sungai Dua",
+      "slug": "sungai-dua"
+    },
+    {
+      "name": "Sungai Jawi",
+      "slug": "sungai-jawi"
+    },
+    {
+      "name": "Sungai Nibong",
+      "slug": "sungai-nibong"
+    },
+    {
+      "name": "Sungai Pinang",
+      "slug": "sungai-pinang"
+    },
+    {
+      "name": "Tanjong Tokong",
+      "slug": "tanjong-tokong"
+    },
+    {
+      "name": "Tanjung Bungah",
+      "slug": "tanjung-bungah"
+    },
+    {
+      "name": "Tasek Gelugor",
+      "slug": "tasek-gelugor"
+    },
+    {
+      "name": "Teluk Bahang",
+      "slug": "teluk-bahang"
+    },
+    {
+      "name": "Teluk Kumbar",
+      "slug": "teluk-kumbar"
+    },
+    {
+      "name": "Tengah",
+      "slug": "tengah"
+    },
+    {
+      "name": "Timur Laut",
+      "slug": "timur-laut"
+    },
+    {
+      "name": "USM",
+      "slug": "usm"
+    },
+    {
+      "name": "Utara",
+      "slug": "utara"
+    },
+    {
+      "name": "Valdor",
+      "slug": "valdor"
+    },
+    {
+      "name": "Batu Feringghi",
+      "slug": "batu-feringghi"
+    },
+    {
+      "name": "George Town",
+      "slug": "george-town"
+    },
+    {
+      "name": "Gertak Sanggul",
+      "slug": "gertak-sanggul"
+    },
+    {
+      "name": "Pantai Acheh",
+      "slug": "pantai-acheh"
+    },
+    {
+      "name": "Tanjung Tokong",
+      "slug": "tanjung-tokong"
+    },
+    {
+      "name": "Telok Kumbar",
+      "slug": "telok-kumbar"
+    }
+  ]
+}

@@ -1,0 +1,413 @@
+{
+  "name": "Pahang",
+  "areas": [
+    {
+      "name": "Balok",
+      "slug": "balok"
+    },
+    {
+      "name": "Bandar Pusat Jengka",
+      "slug": "bandar-pusat-jengka"
+    },
+    {
+      "name": "Bandar Tun Abdul Razak",
+      "slug": "bandar-tun-abdul-razak"
+    },
+    {
+      "name": "Benta",
+      "slug": "benta"
+    },
+    {
+      "name": "Bentong",
+      "slug": "bentong"
+    },
+    {
+      "name": "Bera",
+      "slug": "bera"
+    },
+    {
+      "name": "Bilut",
+      "slug": "bilut"
+    },
+    {
+      "name": "Brinchang",
+      "slug": "brinchang"
+    },
+    {
+      "name": "Bukit Fraser",
+      "slug": "bukit-fraser"
+    },
+    {
+      "name": "Cameron Highlands",
+      "slug": "cameron-highlands"
+    },
+    {
+      "name": "Chenor",
+      "slug": "chenor"
+    },
+    {
+      "name": "Damak",
+      "slug": "damak"
+    },
+    {
+      "name": "Dong",
+      "slug": "dong"
+    },
+    {
+      "name": "Genting Highlands",
+      "slug": "genting-highlands"
+    },
+    {
+      "name": "Jerantut",
+      "slug": "jerantut"
+    },
+    {
+      "name": "Karak",
+      "slug": "karak"
+    },
+    {
+      "name": "Kuala Lipis",
+      "slug": "kuala-lipis"
+    },
+    {
+      "name": "Kuala Rompin",
+      "slug": "kuala-rompin"
+    },
+    {
+      "name": "Kuantan",
+      "slug": "kuantan"
+    },
+    {
+      "name": "Lanchang",
+      "slug": "lanchang"
+    },
+    {
+      "name": "Lipis",
+      "slug": "lipis"
+    },
+    {
+      "name": "Lurah",
+      "slug": "lurah"
+    },
+    {
+      "name": "Maran",
+      "slug": "maran"
+    },
+    {
+      "name": "Mengkarak",
+      "slug": "mengkarak"
+    },
+    {
+      "name": "Mentakab",
+      "slug": "mentakab"
+    },
+    {
+      "name": "Muadzam Shah",
+      "slug": "muadzam-shah"
+    },
+    {
+      "name": "Padang Tengku",
+      "slug": "padang-tengku"
+    },
+    {
+      "name": "Pekan",
+      "slug": "pekan"
+    },
+    {
+      "name": "Raub",
+      "slug": "raub"
+    },
+    {
+      "name": "Ringlet",
+      "slug": "ringlet"
+    },
+    {
+      "name": "Rompin",
+      "slug": "rompin"
+    },
+    {
+      "name": "Sega",
+      "slug": "sega"
+    },
+    {
+      "name": "Sungai Koyan",
+      "slug": "sungai-koyan"
+    },
+    {
+      "name": "Sungai Lembing",
+      "slug": "sungai-lembing"
+    },
+    {
+      "name": "Sungai Ruan",
+      "slug": "sungai-ruan"
+    },
+    {
+      "name": "Tanah Rata",
+      "slug": "tanah-rata"
+    },
+    {
+      "name": "Temerloh",
+      "slug": "temerloh"
+    },
+    {
+      "name": "Triang",
+      "slug": "triang"
+    },
+    {
+      "name": "Bandar Tun Razak",
+      "slug": "bandar-tun-razak"
+    },
+    {
+      "name": "Bangau",
+      "slug": "bangau"
+    },
+    {
+      "name": "Batu Talam",
+      "slug": "batu-talam"
+    },
+    {
+      "name": "Batu Yon",
+      "slug": "batu-yon"
+    },
+    {
+      "name": "Bebar",
+      "slug": "bebar"
+    },
+    {
+      "name": "Beserah",
+      "slug": "beserah"
+    },
+    {
+      "name": "Budu",
+      "slug": "budu"
+    },
+    {
+      "name": "Bukit Segumpal",
+      "slug": "bukit-segumpal"
+    },
+    {
+      "name": "Burau",
+      "slug": "burau"
+    },
+    {
+      "name": "Cheka",
+      "slug": "cheka"
+    },
+    {
+      "name": "Endau",
+      "slug": "endau"
+    },
+    {
+      "name": "Gali",
+      "slug": "gali"
+    },
+    {
+      "name": "Gambang",
+      "slug": "gambang"
+    },
+    {
+      "name": "Ganchong",
+      "slug": "ganchong"
+    },
+    {
+      "name": "Gua",
+      "slug": "gua"
+    },
+    {
+      "name": "Hulu Cheka",
+      "slug": "hulu-cheka"
+    },
+    {
+      "name": "Hulu Dong",
+      "slug": "hulu-dong"
+    },
+    {
+      "name": "Hulu Jelai",
+      "slug": "hulu-jelai"
+    },
+    {
+      "name": "Hulu Kuantan",
+      "slug": "hulu-kuantan"
+    },
+    {
+      "name": "Hulu Lepar",
+      "slug": "hulu-lepar"
+    },
+    {
+      "name": "Hulu Telom",
+      "slug": "hulu-telom"
+    },
+    {
+      "name": "Hulu Tembeling",
+      "slug": "hulu-tembeling"
+    },
+    {
+      "name": "Jenderak",
+      "slug": "jenderak"
+    },
+    {
+      "name": "Kechau",
+      "slug": "kechau"
+    },
+    {
+      "name": "Kelola",
+      "slug": "kelola"
+    },
+    {
+      "name": "Kerantong",
+      "slug": "kerantong"
+    },
+    {
+      "name": "Keratong",
+      "slug": "keratong"
+    },
+    {
+      "name": "Kerdau",
+      "slug": "kerdau"
+    },
+    {
+      "name": "Kertau",
+      "slug": "kertau"
+    },
+    {
+      "name": "Kuala Pahang",
+      "slug": "kuala-pahang"
+    },
+    {
+      "name": "Kuala Tembeling",
+      "slug": "kuala-tembeling"
+    },
+    {
+      "name": "Langgar",
+      "slug": "langgar"
+    },
+    {
+      "name": "Lebak",
+      "slug": "lebak"
+    },
+    {
+      "name": "Lepar",
+      "slug": "lepar"
+    },
+    {
+      "name": "Lipat Kajang",
+      "slug": "lipat-kajang"
+    },
+    {
+      "name": "Luit",
+      "slug": "luit"
+    },
+    {
+      "name": "Mela",
+      "slug": "mela"
+    },
+    {
+      "name": "Mengkuang",
+      "slug": "mengkuang"
+    },
+    {
+      "name": "Pahang Tua",
+      "slug": "pahang-tua"
+    },
+    {
+      "name": "Pedah",
+      "slug": "pedah"
+    },
+    {
+      "name": "Pelangai",
+      "slug": "pelangai"
+    },
+    {
+      "name": "Penjom",
+      "slug": "penjom"
+    },
+    {
+      "name": "Penor",
+      "slug": "penor"
+    },
+    {
+      "name": "Penyor",
+      "slug": "penyor"
+    },
+    {
+      "name": "Perak",
+      "slug": "perak"
+    },
+    {
+      "name": "Pontian",
+      "slug": "pontian"
+    },
+    {
+      "name": "Pulau Manis",
+      "slug": "pulau-manis"
+    },
+    {
+      "name": "Pulau Rusa",
+      "slug": "pulau-rusa"
+    },
+    {
+      "name": "Pulau Tawar",
+      "slug": "pulau-tawar"
+    },
+    {
+      "name": "Sabai",
+      "slug": "sabai"
+    },
+    {
+      "name": "Sanggang",
+      "slug": "sanggang"
+    },
+    {
+      "name": "Semantan",
+      "slug": "semantan"
+    },
+    {
+      "name": "Semantan Hulu",
+      "slug": "semantan-hulu"
+    },
+    {
+      "name": "Songsang",
+      "slug": "songsang"
+    },
+    {
+      "name": "Sungai Karang",
+      "slug": "sungai-karang"
+    },
+    {
+      "name": "Tanjung Besar",
+      "slug": "tanjung-besar"
+    },
+    {
+      "name": "Tebing Tinggi",
+      "slug": "tebing-tinggi"
+    },
+    {
+      "name": "Teh",
+      "slug": "teh"
+    },
+    {
+      "name": "Telang",
+      "slug": "telang"
+    },
+    {
+      "name": "Telemong",
+      "slug": "telemong"
+    },
+    {
+      "name": "Temai",
+      "slug": "temai"
+    },
+    {
+      "name": "Tembeling",
+      "slug": "tembeling"
+    },
+    {
+      "name": "Teras",
+      "slug": "teras"
+    },
+    {
+      "name": "Tioman",
+      "slug": "tioman"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Putrajaya",
+  "areas": [
+    {
+      "name": "Presint 11",
+      "slug": "presint-11"
+    },
+    {
+      "name": "Presint 12",
+      "slug": "presint-12"
+    },
+    {
+      "name": "Presint 18",
+      "slug": "presint-18"
+    },
+    {
+      "name": "Presint 8",
+      "slug": "presint-8"
+    },
+    {
+      "name": "Putrajaya",
+      "slug": "putrajaya"
+    }
+  ]
+}

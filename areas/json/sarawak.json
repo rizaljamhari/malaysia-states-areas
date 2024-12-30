@@ -1,0 +1,221 @@
+{
+  "name": "Sarawak",
+  "areas": [
+    {
+      "name": "Asajaya",
+      "slug": "asajaya"
+    },
+    {
+      "name": "Balingian",
+      "slug": "balingian"
+    },
+    {
+      "name": "Baram",
+      "slug": "baram"
+    },
+    {
+      "name": "Bau",
+      "slug": "bau"
+    },
+    {
+      "name": "Bekenu",
+      "slug": "bekenu"
+    },
+    {
+      "name": "Belaga",
+      "slug": "belaga"
+    },
+    {
+      "name": "Belawai",
+      "slug": "belawai"
+    },
+    {
+      "name": "Betong",
+      "slug": "betong"
+    },
+    {
+      "name": "Bintagor",
+      "slug": "bintagor"
+    },
+    {
+      "name": "Bintulu",
+      "slug": "bintulu"
+    },
+    {
+      "name": "Dalat",
+      "slug": "dalat"
+    },
+    {
+      "name": "Daro",
+      "slug": "daro"
+    },
+    {
+      "name": "Debak",
+      "slug": "debak"
+    },
+    {
+      "name": "Engkilili",
+      "slug": "engkilili"
+    },
+    {
+      "name": "Julau",
+      "slug": "julau"
+    },
+    {
+      "name": "Kabong",
+      "slug": "kabong"
+    },
+    {
+      "name": "Kanowit",
+      "slug": "kanowit"
+    },
+    {
+      "name": "Kapit",
+      "slug": "kapit"
+    },
+    {
+      "name": "Kota Samarahan",
+      "slug": "kota-samarahan"
+    },
+    {
+      "name": "Kuching",
+      "slug": "kuching"
+    },
+    {
+      "name": "Lawas",
+      "slug": "lawas"
+    },
+    {
+      "name": "Limbang",
+      "slug": "limbang"
+    },
+    {
+      "name": "Lingga",
+      "slug": "lingga"
+    },
+    {
+      "name": "Long Lama",
+      "slug": "long-lama"
+    },
+    {
+      "name": "Lubok Antu",
+      "slug": "lubok-antu"
+    },
+    {
+      "name": "Lundu",
+      "slug": "lundu"
+    },
+    {
+      "name": "Lutong",
+      "slug": "lutong"
+    },
+    {
+      "name": "Maradong",
+      "slug": "maradong"
+    },
+    {
+      "name": "Marudi",
+      "slug": "marudi"
+    },
+    {
+      "name": "Matu",
+      "slug": "matu"
+    },
+    {
+      "name": "Miri",
+      "slug": "miri"
+    },
+    {
+      "name": "Mukah",
+      "slug": "mukah"
+    },
+    {
+      "name": "Nanga Medamit",
+      "slug": "nanga-medamit"
+    },
+    {
+      "name": "Niah",
+      "slug": "niah"
+    },
+    {
+      "name": "Pakan",
+      "slug": "pakan"
+    },
+    {
+      "name": "Pusa",
+      "slug": "pusa"
+    },
+    {
+      "name": "Roban",
+      "slug": "roban"
+    },
+    {
+      "name": "Samarahan",
+      "slug": "samarahan"
+    },
+    {
+      "name": "Saratok ",
+      "slug": "saratok-"
+    },
+    {
+      "name": "Sarikei",
+      "slug": "sarikei"
+    },
+    {
+      "name": "Sebauh",
+      "slug": "sebauh"
+    },
+    {
+      "name": "Sebuyau",
+      "slug": "sebuyau"
+    },
+    {
+      "name": "Selangau",
+      "slug": "selangau"
+    },
+    {
+      "name": "Serian",
+      "slug": "serian"
+    },
+    {
+      "name": "Sibu",
+      "slug": "sibu"
+    },
+    {
+      "name": "Simunjan",
+      "slug": "simunjan"
+    },
+    {
+      "name": "Song",
+      "slug": "song"
+    },
+    {
+      "name": "Spaoh",
+      "slug": "spaoh"
+    },
+    {
+      "name": "Sri Aman",
+      "slug": "sri-aman"
+    },
+    {
+      "name": "Sundar",
+      "slug": "sundar"
+    },
+    {
+      "name": "Tanjung Kidurong",
+      "slug": "tanjung-kidurong"
+    },
+    {
+      "name": "Tatau",
+      "slug": "tatau"
+    },
+    {
+      "name": "Beluru",
+      "slug": "beluru"
+    },
+    {
+      "name": "Saratok",
+      "slug": "saratok"
+    }
+  ]
+}

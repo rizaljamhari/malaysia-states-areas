@@ -1,0 +1,157 @@
+{
+  "name": "Sabah",
+  "areas": [
+    {
+      "name": "Beaufort",
+      "slug": "beaufort"
+    },
+    {
+      "name": "Beluran",
+      "slug": "beluran"
+    },
+    {
+      "name": "Beverly",
+      "slug": "beverly"
+    },
+    {
+      "name": "Bongawan",
+      "slug": "bongawan"
+    },
+    {
+      "name": "Inanam",
+      "slug": "inanam"
+    },
+    {
+      "name": "Keningau",
+      "slug": "keningau"
+    },
+    {
+      "name": "Kota Kinabatangan",
+      "slug": "kota-kinabatangan"
+    },
+    {
+      "name": "Kota Marudu",
+      "slug": "kota-marudu"
+    },
+    {
+      "name": "Kuala Penyu",
+      "slug": "kuala-penyu"
+    },
+    {
+      "name": "Kudat",
+      "slug": "kudat"
+    },
+    {
+      "name": "Kunak",
+      "slug": "kunak"
+    },
+    {
+      "name": "Lahad Datu",
+      "slug": "lahad-datu"
+    },
+    {
+      "name": "Likas",
+      "slug": "likas"
+    },
+    {
+      "name": "Luyang",
+      "slug": "luyang"
+    },
+    {
+      "name": "Membakut",
+      "slug": "membakut"
+    },
+    {
+      "name": "Menumbok",
+      "slug": "menumbok"
+    },
+    {
+      "name": "Nabawan",
+      "slug": "nabawan"
+    },
+    {
+      "name": "Pamol",
+      "slug": "pamol"
+    },
+    {
+      "name": "Papar",
+      "slug": "papar"
+    },
+    {
+      "name": "Penampang",
+      "slug": "penampang"
+    },
+    {
+      "name": "Pitas",
+      "slug": "pitas"
+    },
+    {
+      "name": "Pulatan",
+      "slug": "pulatan"
+    },
+    {
+      "name": "Putatan",
+      "slug": "putatan"
+    },
+    {
+      "name": "Ranau",
+      "slug": "ranau"
+    },
+    {
+      "name": "Sandakan",
+      "slug": "sandakan"
+    },
+    {
+      "name": "Semporna",
+      "slug": "semporna"
+    },
+    {
+      "name": "Sipitang",
+      "slug": "sipitang"
+    },
+    {
+      "name": "Tambunan",
+      "slug": "tambunan"
+    },
+    {
+      "name": "Tamparuli",
+      "slug": "tamparuli"
+    },
+    {
+      "name": "Tanjung Aru",
+      "slug": "tanjung-aru"
+    },
+    {
+      "name": "Tawau",
+      "slug": "tawau"
+    },
+    {
+      "name": "Tenghilan",
+      "slug": "tenghilan"
+    },
+    {
+      "name": "Tenom",
+      "slug": "tenom"
+    },
+    {
+      "name": "Timbuktu",
+      "slug": "timbuktu"
+    },
+    {
+      "name": "Tongod",
+      "slug": "tongod"
+    },
+    {
+      "name": "Tuaran",
+      "slug": "tuaran"
+    },
+    {
+      "name": "Kota Belud",
+      "slug": "kota-belud"
+    },
+    {
+      "name": "Kota Kinabalu",
+      "slug": "kota-kinabalu"
+    }
+  ]
+}

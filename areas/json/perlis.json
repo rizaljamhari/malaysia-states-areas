@@ -1,0 +1,113 @@
+{
+  "name": "Perlis",
+  "areas": [
+    {
+      "name": "Arau",
+      "slug": "arau"
+    },
+    {
+      "name": "Kaki Bukit",
+      "slug": "kaki-bukit"
+    },
+    {
+      "name": "Kangar",
+      "slug": "kangar"
+    },
+    {
+      "name": "Kuala Perlis",
+      "slug": "kuala-perlis"
+    },
+    {
+      "name": "Padang Besar",
+      "slug": "padang-besar"
+    },
+    {
+      "name": "Pauh",
+      "slug": "pauh"
+    },
+    {
+      "name": "Simpang Ampat",
+      "slug": "simpang-ampat"
+    },
+    {
+      "name": "Abi",
+      "slug": "abi"
+    },
+    {
+      "name": "Beseri",
+      "slug": "beseri"
+    },
+    {
+      "name": "Chuping",
+      "slug": "chuping"
+    },
+    {
+      "name": "Jejawi",
+      "slug": "jejawi"
+    },
+    {
+      "name": "Kayang",
+      "slug": "kayang"
+    },
+    {
+      "name": "Kechor",
+      "slug": "kechor"
+    },
+    {
+      "name": "Kurong Anai",
+      "slug": "kurong-anai"
+    },
+    {
+      "name": "Kurong Batang",
+      "slug": "kurong-batang"
+    },
+    {
+      "name": "Ngulang",
+      "slug": "ngulang"
+    },
+    {
+      "name": "Oran",
+      "slug": "oran"
+    },
+    {
+      "name": "Padang Pauh",
+      "slug": "padang-pauh"
+    },
+    {
+      "name": "Padang Siding",
+      "slug": "padang-siding"
+    },
+    {
+      "name": "Paya",
+      "slug": "paya"
+    },
+    {
+      "name": "Sanglang",
+      "slug": "sanglang"
+    },
+    {
+      "name": "Sena",
+      "slug": "sena"
+    },
+    {
+      "name": "Seriab",
+      "slug": "seriab"
+    },
+    {
+      "name": "Sungai Adam",
+      "slug": "sungai-adam"
+    },
+    {
+      "name": "Titi Tinggi",
+      "slug": "titi-tinggi"
+    },
+    {
+      "name": "Utan Aji",
+      "slug": "utan-aji"
+    },
+    {
+      "name": "Wang Bintong",
+      "slug": "wang-bintong"
+    }
+  ]
+}

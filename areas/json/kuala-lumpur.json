@@ -1,0 +1,257 @@
+{
+  "name": "Kuala Lumpur",
+  "areas": [
+    {
+      "name": "Ampang",
+      "slug": "ampang"
+    },
+    {
+      "name": "Ampang Hilir",
+      "slug": "ampang-hilir"
+    },
+    {
+      "name": "Bandar Damai Perdana",
+      "slug": "bandar-damai-perdana"
+    },
+    {
+      "name": "Bandar Menjalara",
+      "slug": "bandar-menjalara"
+    },
+    {
+      "name": "Bangsar",
+      "slug": "bangsar"
+    },
+    {
+      "name": "Bangsar South",
+      "slug": "bangsar-south"
+    },
+    {
+      "name": "Brickfields",
+      "slug": "brickfields"
+    },
+    {
+      "name": "Bukit Bintang",
+      "slug": "bukit-bintang"
+    },
+    {
+      "name": "Bukit Jalil",
+      "slug": "bukit-jalil"
+    },
+    {
+      "name": "Bukit Ledang",
+      "slug": "bukit-ledang"
+    },
+    {
+      "name": "Bukit Tunku (Kenny Hills)",
+      "slug": "bukit-tunku-(kenny-hills)"
+    },
+    {
+      "name": "Chan Sow Lin",
+      "slug": "chan-sow-lin"
+    },
+    {
+      "name": "Cheras",
+      "slug": "cheras"
+    },
+    {
+      "name": "Country Heights Damansara",
+      "slug": "country-heights-damansara"
+    },
+    {
+      "name": "Damansara Heights",
+      "slug": "damansara-heights"
+    },
+    {
+      "name": "Desa Pandan",
+      "slug": "desa-pandan"
+    },
+    {
+      "name": "Desa ParkCity",
+      "slug": "desa-parkcity"
+    },
+    {
+      "name": "Dutamas",
+      "slug": "dutamas"
+    },
+    {
+      "name": "Federal Hill",
+      "slug": "federal-hill"
+    },
+    {
+      "name": "Jalan Ipoh",
+      "slug": "jalan-ipoh"
+    },
+    {
+      "name": "Jalan Kuching",
+      "slug": "jalan-kuching"
+    },
+    {
+      "name": "Jalan Sultan Ismail",
+      "slug": "jalan-sultan-ismail"
+    },
+    {
+      "name": "Jalan Tun Razak",
+      "slug": "jalan-tun-razak"
+    },
+    {
+      "name": "Kampung Kerinchi",
+      "slug": "kampung-kerinchi"
+    },
+    {
+      "name": "Kepong",
+      "slug": "kepong"
+    },
+    {
+      "name": "Kg Datuk Keramat",
+      "slug": "kg-datuk-keramat"
+    },
+    {
+      "name": "KL Sentral",
+      "slug": "kl-sentral"
+    },
+    {
+      "name": "Kota Emerald",
+      "slug": "kota-emerald"
+    },
+    {
+      "name": "Kuchai Lama",
+      "slug": "kuchai-lama"
+    },
+    {
+      "name": "Mont Kiara",
+      "slug": "mont-kiara"
+    },
+    {
+      "name": "Pandan Indah",
+      "slug": "pandan-indah"
+    },
+    {
+      "name": "Pandan Perdana",
+      "slug": "pandan-perdana"
+    },
+    {
+      "name": "Pantai Dalam",
+      "slug": "pantai-dalam"
+    },
+    {
+      "name": "Salak Selatan",
+      "slug": "salak-selatan"
+    },
+    {
+      "name": "Segambut",
+      "slug": "segambut"
+    },
+    {
+      "name": "Sentul",
+      "slug": "sentul"
+    },
+    {
+      "name": "Seputeh",
+      "slug": "seputeh"
+    },
+    {
+      "name": "Setapak",
+      "slug": "setapak"
+    },
+    {
+      "name": "Setiawangsa",
+      "slug": "setiawangsa"
+    },
+    {
+      "name": "Sri Hartamas",
+      "slug": "sri-hartamas"
+    },
+    {
+      "name": "Sri Petaling",
+      "slug": "sri-petaling"
+    },
+    {
+      "name": "Sungai Besi",
+      "slug": "sungai-besi"
+    },
+    {
+      "name": "Sungai Penchala",
+      "slug": "sungai-penchala"
+    },
+    {
+      "name": "Sunway SPK",
+      "slug": "sunway-spk"
+    },
+    {
+      "name": "Taman Desa",
+      "slug": "taman-desa"
+    },
+    {
+      "name": "Taman Duta",
+      "slug": "taman-duta"
+    },
+    {
+      "name": "Titiwangsa",
+      "slug": "titiwangsa"
+    },
+    {
+      "name": "Wangsa Maju",
+      "slug": "wangsa-maju"
+    },
+    {
+      "name": "Bandar Tasik Selatan",
+      "slug": "bandar-tasik-selatan"
+    },
+    {
+      "name": "Batu Caves",
+      "slug": "batu-caves"
+    },
+    {
+      "name": "Bukit Kiara",
+      "slug": "bukit-kiara"
+    },
+    {
+      "name": "Desa Petaling",
+      "slug": "desa-petaling"
+    },
+    {
+      "name": "Gombak",
+      "slug": "gombak"
+    },
+    {
+      "name": "Jalan Klang Lama (Old Klang Road)",
+      "slug": "jalan-klang-lama-(old-klang-road)"
+    },
+    {
+      "name": "Jinjang",
+      "slug": "jinjang"
+    },
+    {
+      "name": "KL City Centre",
+      "slug": "kl-city-centre"
+    },
+    {
+      "name": "KL Eco City",
+      "slug": "kl-eco-city"
+    },
+    {
+      "name": "Keramat",
+      "slug": "keramat"
+    },
+    {
+      "name": "Mid Valley City",
+      "slug": "mid-valley-city"
+    },
+    {
+      "name": "Pantai",
+      "slug": "pantai"
+    },
+    {
+      "name": "Salak South",
+      "slug": "salak-south"
+    },
+    {
+      "name": "Taman Tun Dr Ismail",
+      "slug": "taman-tun-dr-ismail"
+    },
+    {
+      "name": "Ulu Kelang",
+      "slug": "ulu-kelang"
+    }
+  ]
+}
